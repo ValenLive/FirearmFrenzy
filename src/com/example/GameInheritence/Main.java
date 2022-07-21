@@ -1,4 +1,4 @@
-import com.example.GameInheritence.Firearm;
+package com.example.GameInheritence;
 
 public class Main {
     public static void main(String[] args) {
@@ -8,4 +8,5 @@ public class Main {
         ak.showCommands();
         glock.showCommands();
     }
+
 }
